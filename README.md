@@ -1,6 +1,13 @@
-# Sorting Conveyor Project
+# SortingConveyor - Industrial Sorting Conveyor Prototype
 
-This project implements a sorting conveyor system using the MKL25Z4 MCU and a vision system using OpenCV. It integrates ADC, PWM, servos, keypad input, and a conveyor motor, along with an LCD for real-time count display. 
+## Overview
+This project implements a sorting conveyor system using the MKL25Z4 microcontroller and a vision system with OpenCV. The system sorts objects based on color and displays real-time counts on an LCD.
+
+## Features
+- Color-based object sorting
+- Real-time count display on LCD
+- Servo-controlled sorting mechanism
+- PWM motor control for conveyor belt
 
 ## Demo
 ![System Demo](https://github.com/Marambulag/SortingConveyor/blob/master/img/output.gif?raw=true)
